@@ -9,6 +9,8 @@ C:\Users\angel\source\repos\testrun\testrun
 I followed this guide to install freeglut: 
 https://heavenkong.blogspot.com/2018/03/opengl-installation-of-opengl-with.html
 
+To change pictures when the project is running use the keys 1, 2, 3 to view the first, second or third image. To escape the program use the key Q or q 
+
 
 Problem 1: 
 
